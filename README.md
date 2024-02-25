@@ -66,4 +66,4 @@ Contributions to this project are welcome! If you have any suggestions, bug repo
 
 ---
 
-Enjoy solving mazes with the Terminal-Based Maze Solver! If you encounter any issues or have any questions, don't hesitate to reach out.
+Enjoy solving mazes with the Terminal-Based Maze Solver!  If you encounter any issues or have any questions, don't hesitate to reach  out.
